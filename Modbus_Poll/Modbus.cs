@@ -10,7 +10,7 @@ namespace Modbus_Poll
         /// <summary>
         /// 狀態顯示
         /// </summary>
-        private string  modbusStatusStr;
+        public string  modbusStatusStr;
         // Constructor / Deconstructor
         /// <summary>
         /// Constructor
