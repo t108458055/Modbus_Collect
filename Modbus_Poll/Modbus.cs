@@ -1,6 +1,11 @@
 ﻿using System;
 using System.IO.Ports;
 
+/** 2023-10-30
+ * 
+ DRKPI/Modbus-Poll
+    https://github.com/DRKPI/Modbus-Poll/tree/master
+ */
 namespace Modbus_Poll
 {
     internal class Modbus :IDisposable
